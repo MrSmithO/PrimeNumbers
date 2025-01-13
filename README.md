@@ -1,1 +1,1 @@
-This code prints a series of prime numbers.
+This code takes a number the user inputs and prints whether it is a prime number.
